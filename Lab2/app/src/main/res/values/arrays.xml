@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string-array name="buttonTextColors">-->
+<!--        <item>black</item>-->
+<!--        <item>purple_200</item>-->
+<!--        <item>purple_500</item>-->
+<!--        <item>purple_700</item>-->
+<!--        <item>teal_200</item>-->
+<!--        <item>teal_700</item>-->
+<!--    </string-array>-->
+    <array name="buttonTextColors">
+        <item>@color/black</item>
+        <item>@color/ingr_red1</item>
+        <item>@color/ingr_orange1</item>
+        <item>@color/ingr_yellow1</item>
+        <item>@color/ingr_green1</item>
+        <item>@color/ingr_blue1</item>
+        <item>@color/ingr_violet1</item>
+    </array>
+</resources>

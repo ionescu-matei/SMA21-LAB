@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="order_confirmation">Confirm order</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="pick_toppings">Pick your toppings</string>
+    <string name="greetings">Greetings</string>
+    <string name="eNameHint">Your name</string>
+    <string name="bClickText">Say hello</string>
+    <string name="tNameDefault">Hello there</string>
+    <string name="bRandomText">Randomize</string>
+    <string name="tSelectColorText">Select button text color</string>
+    <string name="bSearchText">Search</string>
+    <string name="bShareText">Share</string>
+</resources>
