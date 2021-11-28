@@ -1,0 +1,14 @@
+Cand apas pe primul buton, linkul poate fi deschis fie cu browserul telefonului, fie cu aplicatia "Hello World",
+mai exact poate fi deschis de catre activitatea IntentFilterActivity, pentru ca am definit in manifest
+un intent-filter corespunzator
+
+La apasarea celui de al doilea buton, numarul de telefon poate fi descis de aplicatia "Phone" a dispozitivului
+sau de aplicatia "Hello World", pentru ca avem in definit in manifest intent-filterul ce accepta action VIEW,
+respectiv data "tel"
+
+Cand apas butonul 3, linkul va putea fi deschis numai de aplicatia "Hello World", pentru ca ea este singura de pe
+dispozitiv care are un intent filter corespunzator, acceptand action de tipul "MSA.LAUNCH" si data scheme de tipul
+"http" si "https"
+
+Cand apas butonul 4, numarul de telefon va putea fi deschis numai de aplicatia "Hello World", pentru ca ea este singura de pe
+dispozitiv care are un intent filter corespunzator, acceptand action de tipul "MSA.LAUNCH" si data scheme "tel"
