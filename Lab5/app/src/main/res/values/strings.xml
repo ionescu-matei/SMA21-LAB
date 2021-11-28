@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMA-lab5</string>
+    <string name="channel_name">PowerStatus</string>
+    <string name="channel_description">Channel for sending power status notifications</string>
+</resources>
